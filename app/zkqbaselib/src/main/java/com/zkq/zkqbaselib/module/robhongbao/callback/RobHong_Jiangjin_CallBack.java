@@ -1,9 +1,9 @@
-package com.qqy.lmdg.module.robhongbao.callback;
+package com.zkq.zkqbaselib.module.robhongbao.callback;
 
 import com.qqy.lmdg.api.entry.EntryResult;
-import com.qqy.lmdg.base.BaseView;
 import com.qqy.lmdg.common.ibean.IUser_redpack_list;
 import com.qqy.lmdg.home.model.DrawLogList;
+import com.zkq.zkqbaselib.base.BaseView;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.qqy.lmdg.base;
+package com.zkq.zkqbaselib.base;
 
 import androidx.annotation.StringRes;
 

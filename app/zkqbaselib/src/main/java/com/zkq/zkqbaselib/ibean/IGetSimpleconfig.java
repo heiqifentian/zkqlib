@@ -1,4 +1,4 @@
-package com.qqy.lmdg.ibean;
+package com.zkq.zkqbaselib.ibean;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package com.qqy.lmdg.utils;
+package com.zkq.zkqbaselib.utils;
 
 import android.widget.EditText;
 

@@ -1,4 +1,4 @@
-package com.qqy.lmdg.ibean;
+package com.zkq.zkqbaselib.ibean;
 
 public class IYulibao_Count {
     private int id;

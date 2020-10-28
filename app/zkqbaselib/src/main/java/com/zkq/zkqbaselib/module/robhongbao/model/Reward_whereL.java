@@ -1,4 +1,4 @@
-package com.qqy.lmdg.module.robhongbao.model;
+package com.zkq.zkqbaselib.module.robhongbao.model;
 
 public class Reward_whereL {
 

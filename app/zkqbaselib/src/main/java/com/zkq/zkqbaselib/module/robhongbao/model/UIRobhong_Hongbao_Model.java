@@ -1,4 +1,4 @@
-package com.qqy.lmdg.module.robhongbao.model;
+package com.zkq.zkqbaselib.module.robhongbao.model;
 
 public class UIRobhong_Hongbao_Model {
     private int ids;

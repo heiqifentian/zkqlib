@@ -1,7 +1,7 @@
-package com.qqy.lmdg.module.robhongbao.callback;
+package com.zkq.zkqbaselib.module.robhongbao.callback;
 
-import com.qqy.lmdg.base.BaseView;
-import com.qqy.lmdg.ibean.IUserGrades;
+import com.zkq.zkqbaselib.base.BaseView;
+import com.zkq.zkqbaselib.ibean.IUserGrades;
 
 import java.util.List;
 
