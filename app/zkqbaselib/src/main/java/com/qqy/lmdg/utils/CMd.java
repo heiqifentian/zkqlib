@@ -1,8 +1,6 @@
-package com.zkq.zkqbaselib.utils;
+package com.qqy.lmdg.utils;
 
 import android.widget.EditText;
-
-import org.json.JSONObject;
 
 import java.util.regex.Pattern;
 
